@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile software development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on projects in web and mobile
-- 📫 How to reach me judymaina053@gmail.com
+- 📫 How to reach me judy.maina@student.moringaschool.com
 
 <!---
 Judy-Maina/Judy-Maina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
